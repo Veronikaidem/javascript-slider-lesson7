@@ -1,2 +1,4 @@
 # javascript-slider-lesson7
-slider without arrow buttons
+slider with arrow buttons
+javascript, lesson 7
+
